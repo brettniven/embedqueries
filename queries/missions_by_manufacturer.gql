@@ -1,0 +1,8 @@
+{
+    missions(find: {manufacturer: "{{.Manufacturer}}" }, limit: {{.Limit}}) {
+        id
+        name
+        manufacturers
+        twitter
+    }
+}

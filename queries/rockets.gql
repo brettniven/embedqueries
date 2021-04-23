@@ -1,0 +1,9 @@
+{
+    rockets(limit: {{.Limit}}) {
+        id
+        name
+        company
+        cost_per_launch
+        country
+    }
+}

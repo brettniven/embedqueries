@@ -1,0 +1,8 @@
+{
+    mission(id: "{{.MissionID}}") {
+        manufacturers
+        twitter
+        name
+        description
+    }
+}
